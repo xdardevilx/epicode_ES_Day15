@@ -524,7 +524,7 @@ const addClassTr = function () {
     allTr[i].classList.add("test");
   }
 };
-addClassTr()
+addClassTr();
 // [EXTRA] JS Avanzato
 
 /* ESERCIZIO 27
@@ -556,3 +556,5 @@ addClassTr()
 */
 
 /* Questo array viene usato per gli esercizi. Non modificarlo. */
+
+// chiedo scusa per non aver fatto gli extra ma non ho avuto veramente il tempo per farli!!!!!
